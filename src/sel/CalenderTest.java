@@ -16,7 +16,7 @@ public class CalenderTest
 	     driver.findElement(By.id("DepartDate")).click();
 	     Thread.sleep(1000);
 	     
-	    // while(true)
+	     while(true)
 	     {
 	    	 try
 	    	 {
